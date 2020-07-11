@@ -3,7 +3,8 @@ A React Native covid tracking project with live updates on the current spread of
 
 # Prerequisities
 ```
-$ npm install -g expo-cli
+node.js
+expo
 ```
 
 
