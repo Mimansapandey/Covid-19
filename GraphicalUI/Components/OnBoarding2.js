@@ -1,6 +1,6 @@
 import React from 'react';
 import { Image, StyleSheet, Text, View, TouchableOpacity, StatusBar } from 'react-native';
-import logo from '../assets/logo.png';
+import logo from '../assets/cvdsafe.png';
 
 // importing fonts 
 import { useFonts } from '@use-expo/font';
@@ -26,10 +26,10 @@ export default function OnBoardingTwo({ navigation }) {
     return (
 
       <View style={styles.container}>
-        <StatusBar backgroundColor='#32afa9' barStyle="light-content" />
-        <Image source={logo} style={{ width: 100, marginBottom: 10 }} />
-        <Text style={styles.headings}>Track progress</Text>
-        <Text style={styles.textBox}>You can add your loved ones and see how they are doing in real time. You will receive a notification everytime there's a new update in the Feed.</Text>
+        <StatusBar backgroundColor='#ffb6c1' barStyle="light-content" />
+        <Image source={logo} style={{ width: 500, marginBottom: 10 }} />
+        <Text style={styles.headings}> Be Hopeful</Text>
+        <Text style={styles.textBox}>Hope is the thing with feathers that perches in the soul - and sings the tunes without the words - and never stops at all.</Text>
 
         <View style={styles.dots}>
           <View style={styles.circle}></View>
@@ -53,7 +53,7 @@ export default function OnBoardingTwo({ navigation }) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#ffb6c1',
     alignItems: 'center',
     justifyContent: 'center',
     textAlign: 'center',

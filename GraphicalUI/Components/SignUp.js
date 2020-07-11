@@ -94,7 +94,7 @@ const SignUpScreen = ({ navigation }) => {
 				>
 					<Text style={[styles.text_footer, {
 						marginTop: 35, marginBottom: 10
-					}]} >NHS Number</Text>
+					}]} >Mobile Number</Text>
 					<View style={styles.action}>
 						<FontAwesome
 							name="user-o"

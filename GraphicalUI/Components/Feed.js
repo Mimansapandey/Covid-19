@@ -82,16 +82,7 @@ export default class BasicTimeLine extends Component {
       <ScrollView style={styles.wrapper}>
         <StatusBar backgroundColor='#32afa9' barStyle="light-content" />
         <View style={styles.userInfo}>
-          {/*CODE FOR JANE Qwerty TEXT STARTS*/}
-          <View style={styles.userContainer}>
-            <Text style={styles.userName}>Jane Qwerty</Text>
-            <Text style={styles.userNo}>MOBILE NUMBER: 000 000 0000</Text>
-            <View style={{ flexDirection: 'row' }}>
-              <Text style={styles.userNo}>PROGRESS:  </Text>
-              <Image source={green} />
-              <Text style={styles.userNo}>  stable</Text>
-            </View>
-          </View>
+          
 
           <View style={styles.Jane}>
             <Image source={Jane} />

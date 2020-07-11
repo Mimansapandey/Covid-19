@@ -1,6 +1,6 @@
 import React from 'react';
 import { Image, StyleSheet, Text, View, Button, TouchableOpacity, StatusBar} from 'react-native';
-import logo from '../assets/logo.png';
+import logo from '../assets/cvdsafe.png';
 
 // importing fonts 
 import { useFonts } from '@use-expo/font';
@@ -25,10 +25,10 @@ export default function OnBoardingThree({ navigation }) {
     return (
 
       <View style={styles.container}>
-        <StatusBar backgroundColor='#32afa9' barStyle="light-content" />
-        <Image source={logo} style={{ width: 100, marginBottom: 10 }} />
-        <Text style={styles.headings}>Seek help</Text>
-        <Text style={styles.textBox}>Your mental health matters as well and we offer you access to help and support to help you through this difficult time.</Text>
+        <StatusBar backgroundColor='#ffb6c1' barStyle="light-content" />
+        <Image source={logo} style={{ width: 500, marginBottom: 10 }} />
+        <Text style={styles.headings}>Be Optimistic</Text>
+        <Text style={styles.textBox}>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</Text>
 
         <View style={styles.dots}>
           <View style={styles.circle}></View>
@@ -55,7 +55,7 @@ export default function OnBoardingThree({ navigation }) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#ffb6c1',
     alignItems: 'center',
     justifyContent: 'center',
     textAlign: 'center',

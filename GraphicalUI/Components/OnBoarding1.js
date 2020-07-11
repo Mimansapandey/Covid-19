@@ -1,6 +1,6 @@
 import React from 'react';
 import { Image, StyleSheet, Text, View, TouchableOpacity, StatusBar } from 'react-native';
-import logo from '../assets/logo.png';
+import logo from '../assets/cvdsafe.png';
 
 // importing fonts 
 import { useFonts } from '@use-expo/font';
@@ -26,10 +26,10 @@ export default function OnBoardingOne({ navigation }) {
     return (
 
       <View style={styles.container}>
-        <StatusBar backgroundColor='#32afa9' barStyle="light-content" />
-        <Image source={logo} style={{ width: 100, marginBottom: 10 }} />
+        <StatusBar backgroundColor='#ffb6c1' barStyle="light-content" />
+        <Image source={logo} style={{ width: 500, marginBottom: 10 }} />
         <Text style={styles.headings}>Welcome</Text>
-        <Text style={styles.textBox}>We know it's a difficult time now and the healthcare staff are busy. With Patient Progress, you can keep track of how your relatives are doing.</Text>
+        <Text style={styles.textBox}>Act as if what you do makes a difference. It does.</Text>
 
         <View style={styles.dots}>
           <View style={styles.circleFirst}></View>
@@ -54,7 +54,7 @@ export default function OnBoardingOne({ navigation }) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#ffb6c1',
     alignItems: 'center',
     justifyContent: 'center',
     textAlign: 'center',

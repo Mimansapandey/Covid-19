@@ -45,56 +45,11 @@ const Settings = ({ navigation }) => {
 
 
       <View style={styles.container}>
-				<StatusBar backgroundColor='#32afa9' barStyle="light-content" />
-
-        {/*Profile name and Avatar*/}
-
-        {/* <View style={styles.profileContainer}>
-          <View>
-            <Text style={styles.profile}>Profile</Text>
-            <Text style={styles.johnDoe}>John Doe</Text>
-          </View>
-          <Image
-            source={require("../assets/JohnDoe.png")}
-            resizeMode="contain"
-            style={styles.profileAvatar}
-          ></Image>
-        </View> */}
-
-        {/*Menu List*/}
+				<StatusBar backgroundColor='#ffb6c1' barStyle="light-content" />
 
         <View style={styles.menuContainer}>
           <View style={styles.menuLine}></View>
-          {/* <View style={styles.menuTopItems}>
-            <FontAwesomeIcon icon={faBell} style={styles.menuIcons} size={25} />
-            <Text style={styles.menuTopText}>Notifications</Text>
-            <TouchableRipple onPress={() => { toggleNotif() }}>
-              <View pointerEvents='none'>
-                <Switch
-                  style={styles.switch}
-                  value={isNotif}
-                  trackColor={{ false: "#767577", true: "#58ACA8" }}
-                  thumbColor={isNotif ? "#32afa9" : "#393b3a"}
-                />
-              </View>
-            </TouchableRipple>
-          </View>
-          <View style={styles.menuLine}></View>
-          <View style={styles.menuTopItems}>
-            <FontAwesomeIcon icon={faMobile} style={styles.menuIcons} size={25} />
-            <Text style={styles.menuTopText}>Dark Theme</Text>
-            <TouchableRipple onPress={() => { toggleTheme() }}>
-              <View pointerEvents="none">
-                <Switch
-                  style={styles.switch}
-                  value={isDarkTheme}
-                  trackColor={{ false: "#767577", true: "#58ACA8" }}
-                  thumbColor={isDarkTheme ? "#32afa9" : "#393b3a"} />
-              </View>
-            </TouchableRipple>
-          </View> */}
-
-
+         
           <View style={styles.menuLine}></View>
           <TouchableOpacity style={styles.menuItems} onPress={() => navigation.navigate('About')}>
             <FontAwesomeIcon icon={faQuestionCircle} style={styles.menuIcons} size={25} />
@@ -127,7 +82,7 @@ export default Settings;
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#ffb6c1',
   },
 
   //Profile Avatar

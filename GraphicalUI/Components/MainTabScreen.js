@@ -22,14 +22,14 @@ import About from './About';
 import SignInScreen from './Sign-in';
 
 import Contacts from './Contacts';
-import CallNurse from './CallNurse';
+import Call from './Call';
 import Support from './Support';
 import Dashboard from './Dashboard';
 import Faq from './Faq';
 import Settings from './Settings';
 
 const ContactStack = createStackNavigator();
-const NurseStack = createStackNavigator();
+const CallStack = createStackNavigator();
 const SupportStack = createStackNavigator();
 const DashboardStack = createStackNavigator();
 const FaqStack = createStackNavigator();
@@ -103,8 +103,8 @@ const BottomTabScreen = () => (
             }}
         />
         <Tab.Screen
-            name="Call Nurse"
-            component={NurseScreen}
+            name="Call"
+            component={CallScreen}
             options={{
                 tabBarColor: '#fff',
                 tabBarIcon: ({ color }) => (
@@ -154,13 +154,13 @@ const ContactsScreen = () => (
                 CardStyleInterpolators.forHorizontalIOS,
         }}
     >
-        <ContactStack.Screen name="Contacts" component={Contacts} options={({ navigation }) => {
+        {/* <ContactStack.Screen name="Contacts" component={Contacts} options={({ navigation }) => {
             return {
                 headerTitle: () => <Header title='Home' navigation={navigation} />,
                 headerTitleAlign: 'center',
             }
         }}
-        />
+        /> */}
         <ContactStack.Screen name="Feed" component={Feed}
             options={({ navigation }) => {
                 return {
@@ -177,7 +177,7 @@ const ContactsScreen = () => (
 const SupportScreen = () => (
     <SupportStack.Navigator screenOptions={({ navigation }) => {
         return {
-            headerTitle: () => <Header title='Help and Support' navigation={navigation} />, headerTitleAlign: 'center'
+            headerTitle: () => <Header title='Overview' navigation={navigation} />, headerTitleAlign: 'center'
         }
     }}>
         <SupportStack.Screen name="Support" component={Support} options={{
@@ -212,15 +212,15 @@ const FaqScreen = () => (
     </FaqStack.Navigator>
 );
 
-const NurseScreen = () => (
-    <NurseStack.Navigator screenOptions={({ navigation }) => {
+const CallScreen = () => (
+    <CallStack.Navigator screenOptions={({ navigation }) => {
         return {
             headerTitle: () => <Header title='Helpline' navigation={navigation} />, headerTitleAlign: 'center',
         }
     }}>
-        <NurseStack.Screen name="Call Nurse" component={CallNurse} options={{
+        <CallStack.Screen name="Call" component={Call} options={{
         }} />
-    </NurseStack.Navigator>
+    </CallStack.Navigator>
 );
 
 const SettingScreen = () => (
