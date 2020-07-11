@@ -80,7 +80,7 @@ export default class BasicTimeLine extends Component {
 
     return (
       <ScrollView style={styles.wrapper}>
-        <StatusBar backgroundColor='#32afa9' barStyle="light-content" />
+        <StatusBar backgroundColor='#ffb6c1' barStyle="light-content" />
         <View style={styles.userInfo}>
           
 

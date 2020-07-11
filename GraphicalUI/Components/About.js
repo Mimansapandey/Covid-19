@@ -34,8 +34,8 @@ export default function aboutPage() {
 
 
                 <View style={styles.container}>
-                    <Text style={{ fontFamily: 'Bold', fontSize: 25, color: 'white', marginBottom: 7 }}>Sentinels</Text>
-                    <Text style={{ fontFamily: 'Regular', fontSize: 20, marginBottom: 20 }}>We are aspiring students who would like to make a difference on the world. We wish to protect India with our App.</Text>
+                    <Text style={{ fontFamily: 'Bold', fontSize: 25, color: 'white', marginBottom: 7 }}>Corona Safe</Text>
+                    <Text style={{ fontFamily: 'Regular', fontSize: 20, marginBottom: 20 }}>A cross platform covid tracking app with live updates on the current state of the pandemic.</Text>
                     {/* <Image source={logo} /> */}
                     <Text style={{ fontFamily: 'Regular', fontSize: 20, color: 'white', marginTop: 15 }}>© 2020</Text>
                 </View>

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Image, StyleSheet, Text, View, TouchableOpacity, StatusBar } from 'react-native';
-import logo from '../assets/cvdsafe.png';
+import logo from '../assets/Logo(pink).png';
 
 // importing fonts 
 import { useFonts } from '@use-expo/font';

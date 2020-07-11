@@ -78,7 +78,7 @@ const SignInScreen = ({ navigation }) => {
 
 		return (
 			<View style={styles.container}>
-				<StatusBar backgroundColor='#FF69B4' barStyle="light-content" />
+				<StatusBar backgroundColor='#fbf4f4' barStyle="light-content" />
 				<View style={styles.header}>
 					<Text style={styles.text_header}>Login</Text>
 				</View>
@@ -174,9 +174,13 @@ const SignInScreen = ({ navigation }) => {
 						</TouchableOpacity>
 					</View>
 					<Image
-						source={require('../assets/cvdsafe.png')}
-						style={styles.logo}
-						resizeMode="stretch"
+						source={require('../assets/Logo(white).png')}
+						resizeMode="contain"
+						style={{
+							width: 300,
+							marginBottom: 500, 
+							height: 160,
+						}}
 					/>
 				</Animatable.View>
 			</View>
@@ -194,7 +198,7 @@ const height_logo = height * 0.10;
 const styles = StyleSheet.create({
 	container: {
 		flex: 1,
-		backgroundColor: '#FF69B4'
+		backgroundColor: '#fbf4f4'
 	},
 	header: {
 		alignItems: 'flex-end',

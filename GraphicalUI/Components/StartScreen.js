@@ -8,7 +8,7 @@ import {
 import CustomButton from './CustomButton';
 
 //Import logo
-import bigger from '../assets/cvdsafe.png';
+import bigger from '../assets/Logo(pink).png';
 
 const StartScreen = ({ navigation }) => {
     return (
@@ -16,9 +16,9 @@ const StartScreen = ({ navigation }) => {
             flex: 1,
             alignItems: 'center',
             justifyContent: 'center',
-            backgroundColor: '#FFB6C1'
+            backgroundColor: '#fbf4f4'
         }}>
-            <Image source={bigger} style={{ width: 160, marginBottom: 70, height: 160, }} />
+            <Image source={bigger} style={{ width: 600, marginBottom: 70, height: 160, }} />
             <CustomButton text="Sign Up" onPress={() => navigation.navigate('SignUpScreen')}></CustomButton>
             <CustomButton text="Login" onPress={() => navigation.navigate('SignInScreen')}></CustomButton>
         </View>
@@ -26,4 +26,3 @@ const StartScreen = ({ navigation }) => {
 };
 
 export default StartScreen;
-

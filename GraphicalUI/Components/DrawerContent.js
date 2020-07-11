@@ -14,7 +14,7 @@ import {
     DrawerItem
 } from '@react-navigation/drawer';
 
-import JohnDoe from '../assets/cvdsafe.png'
+import JohnDoe from '../assets/Logo(pink).png'
 
 import { Ionicons } from '@expo/vector-icons';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons'
@@ -47,8 +47,8 @@ export function DrawerContent(props) {
                         <View style={{ paddingLeft: 20 }}>
                             <View style={{ flexDirection: 'row', justifyContent: 'space-around', marginTop: 15, }}>
                                 <View style={{ flexDirection: 'column' }}>
-                                    <Title style={styles.name}>The</Title>
-                                    <Title style={styles.name}>Sentinels</Title>
+                                    <Title style={styles.name}>Corona</Title>
+                                    <Title style={styles.name}>Safe</Title>
                                 </View>
                                 <Avatar.Image source={JohnDoe} size={70} />
                             </View>
