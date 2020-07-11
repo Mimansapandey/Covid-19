@@ -1,5 +1,5 @@
 # General info
-A React Native covid tracking project with live updates on current situation of the pandemic.
+A React Native covid tracking project with live updates on the current spread of the pandemic.
 
 # Prerequisities
 ```
