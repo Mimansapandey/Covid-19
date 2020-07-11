@@ -61,14 +61,14 @@ export function DrawerContent(props) {
                         </View>
 
                         <Drawer.Section style={styles.drawerSection}>
-                            <DrawerItem inactiveTintColor='#fff'
+                            {/* <DrawerItem inactiveTintColor='#fff'
                                 icon={({ color, size }) => (
                                     <FontAwesomeIcon icon={faUserFriends} color={color} size={size} />
                                 )}
                                 label="Office" labelStyle={{ fontFamily: 'Medium', fontSize: 16 }}
 
                                 onPress={() => { props.navigation.navigate('Contacts') }}
-                            />
+                            /> */}
                             <DrawerItem inactiveTintColor='#fff'
                                 icon={({ color, size }) => (
                                     <Icon name="inbox-arrow-down"

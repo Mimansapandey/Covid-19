@@ -5,8 +5,8 @@ import { StyleSheet, Text, View, StatusBar, Image } from 'react-native';
 import { useFonts } from '@use-expo/font';
 import { AppLoading } from 'expo';
 
-// importing icons 
-import logo from '../assets/logo-about.png';
+// // importing icons 
+// import logo from '../assets/cvdsafe.png';
 
 
 export default function aboutPage() {
@@ -36,7 +36,7 @@ export default function aboutPage() {
                 <View style={styles.container}>
                     <Text style={{ fontFamily: 'Bold', fontSize: 25, color: 'white', marginBottom: 7 }}>Sentinels</Text>
                     <Text style={{ fontFamily: 'Regular', fontSize: 20, marginBottom: 20 }}>We are aspiring students who would like to make a difference on the world. We wish to protect India with our App.</Text>
-                    <Image source={logo} />
+                    {/* <Image source={logo} /> */}
                     <Text style={{ fontFamily: 'Regular', fontSize: 20, color: 'white', marginTop: 15 }}>© 2020</Text>
                 </View>
 
