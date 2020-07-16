@@ -6,7 +6,7 @@ import { useFonts } from '@use-expo/font';
 import { AppLoading } from 'expo';
 
 // // importing icons 
-// import logo from '../assets/cvdsafe.png';
+// import logo from '../assets/cvdsafe.png'; 
 
 
 export default function aboutPage() {
