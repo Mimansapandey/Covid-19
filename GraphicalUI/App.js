@@ -9,7 +9,7 @@ const App = () =>{
     <NavigationContainer>
       <RootStackScreen />
       {/* <MainTabScreen/> */}
-    </NavigationContainer>
+    </NavigationContainer> 
   );
 }
 
