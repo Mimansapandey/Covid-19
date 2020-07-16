@@ -8,7 +8,7 @@ npm install -g expo-cli
 ```
 ## To run this project, install it locally using Expo
 ```
-cd Covid-19
+cd Covid-19-master
 expo start 
 ```
 # Technology Stack
