@@ -11,7 +11,7 @@ export default function Dashboard() {
   useEffect(() => {
     fetch('https://api.covidindiatracker.com/state_data.json')
       .then((response) => response.json())
-      .then((json) => setData(json)) 
+      .then((json) => setData(json))
       .catch((error) => console.error(error))
       .finally(() => setLoading(false));
   }, []);
