@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "patient-progress-app",
+    "name": "Corona-Safe",
     "sdkVersion": "37.0.0",
-    "slug": "patient-progress-app",
+    "slug": "Corona-Safe",
     "platforms": [
       "ios",
       "android",
