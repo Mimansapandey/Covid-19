@@ -1,6 +1,6 @@
-Files:
 
-1. Navigation-related:
+
+1. To understand the Navigation:
 
 App.js <- RootStackScreen.js <- MainTabScreen.js <- Header.js and DrawerContent.js
 
