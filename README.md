@@ -10,7 +10,7 @@ expo
 
 ## To run this project, use Expo.
 ```
-$ cd Covid-19
+$ cd Covid-19-master
 $ expo start 
 ```
 # Technologies
@@ -19,7 +19,7 @@ $ expo start
 
 # Authors
 * Mimansa Pandey
-* SnehaShree
-* SyedZarif
+* Syed Zarif
+* Sneha Shree
+* Dinesh Pulla
 * Sachin
-* Dinesh
