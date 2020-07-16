@@ -25,53 +25,52 @@ export default class BasicTimeLine extends Component {
     super();
     this.data = [
       {
-        time: '09:30',
-        title: '08/07/2020',
+        title: 'Covid-19 media outlet(National)',
         description:
-          'Temperature of 38C.',
-        circleColor: '#58ACA8',
-        lineColor: '#58ACA8',
+          'https://www.covid19india.org/',
+        circleColor: '#ff4da6',
+        lineColor: '#ff4da6',
         fontSize: 5,
       },
       {
-        time: '12:30',
-        title: '08/07/2020',
+        
+        title: 'Covid-19 media outlet(International)',
         description:
-          'Oxygen therapy administered.',
-        circleColor: '#58ACA8',
-        lineColor: '#58ACA8'
+          'https://www.worldometers.info/coronavirus/',
+        circleColor: '#ff4da6',
+        lineColor: '#ff4da6'
       },
       {
-        time: '17:30',
-        title: '08/07/2020',
+        
+        title: 'Coronavirus Vaccine Tracker',
         description:
-          'Breathing returned to normal.',
-        circleColor: '#58ACA8',
-        lineColor: '#58ACA8'
+          'https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html',
+        circleColor: '#ff4da6',
+        lineColor: '#ff4da6'
       },
       {
-        time: '09:30',
-        title: '09/07/2020',
+        
+        title: 'Ministry of Health and Family Welfare',
         description:
-          'Weight: 75 kg - no change from previously recorded weight.',
-        circleColor: '#58ACA8',
-        lineColor: '#58ACA8'
+          'https://www.mohfw.gov.in/',
+        circleColor: '#ff4da6',
+        lineColor: '#ff4da6'
       },
       {
-        time: '12:30',
-        title: '09/07/2020',
+        
+        title: 'World Health Organisation',
         description:
-          'Normal glucose levels and normal blood pressure.',
-        circleColor: '#58ACA8',
-        lineColor: '#58ACA8'
+          'https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses#:~:text=symptoms',
+        circleColor: '#ff4da6',
+        lineColor: '#ff4da6'
       },
       {
-        time: '15:30',
-        title: '09/07/2020',
+        
+        title: 'Government of India',
         description:
-          'Heart rate: 80 bpm - normal resting heart rate.',
-        circleColor: '#58ACA8',
-        lineColor: '#58ACA8',
+          'https://www.mygov.in/covid-19/',
+        circleColor: '#ff4da6',
+        lineColor: '#ff4da6',
       },
     ];
   }
@@ -97,14 +96,7 @@ export default class BasicTimeLine extends Component {
         </View>
         {/*CODE FOR FEED ENDS*/}
 
-        {/*CODE FOR BUTTON STARTS*/}
-        <View style={styles.button}>
-          <TouchableOpacity style={styles.innerButton} onPress={() => { this.setModalVisible(!modalVisible); }}>
-            <Text style={{ fontFamily: 'Bold', fontSize: 16 }}>Request an Update</Text>
-            <Image style={styles.buttonAdd} resizeMode='contain' source={require('../assets/Vector.png')} />
-          </TouchableOpacity>
-        </View>
-        {/*CODE FOR BUTTON ENDS*/}
+        
 
         {/*CODE FOR POP UP STARTS*/}
         <Modal transparent={true} visible={modalVisible} animationType='fade'>
@@ -112,11 +104,11 @@ export default class BasicTimeLine extends Component {
             <View style={styles.popup}>
 
               <View style={styles.popupText}>
-                <Text style={{ fontFamily: 'Bold', fontSize: 18, textAlign: 'justify' }}>Request an Update</Text>
+                <Text style={{ fontFamily: 'Bold', fontSize: 18, textAlign: 'justify' }}>Request another link</Text>
               </View>
 
               <View style={styles.popupText}>
-                <Text style={{ fontFamily: 'Regular', fontSize: 16 }}>Additional notes (optional):</Text>
+                <Text style={{ fontFamily: 'Regular', fontSize: 16 }}>What other websites would you like to be listed here?</Text>
                 <TextInput style={styles.popupInput} maxLength={250}></TextInput>
               </View>
 
@@ -178,7 +170,7 @@ const styles = StyleSheet.create({
     padding: 10
   },
   innerButton: {
-    backgroundColor: '#FFFFFF',
+    backgroundColor: '#fbf4f4',
     borderRadius: 40,
     flexDirection: 'row',
     justifyContent: 'space-around',
@@ -198,7 +190,7 @@ const styles = StyleSheet.create({
   //Pop-up styling
   popupBack: {
     flex: 1,
-    backgroundColor: "#000000aa",
+    backgroundColor: "#fbf4f4",
     alignItems: 'center',
     justifyContent: 'center'
   },
@@ -245,7 +237,7 @@ const styles = StyleSheet.create({
   popupRequest: {
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#58ACA8',
+    backgroundColor: '#ff4da6',
     padding: 5,
     paddingLeft: 30,
     paddingRight: 30,
@@ -255,7 +247,7 @@ const styles = StyleSheet.create({
   popupCancel: {
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#AC5858',
+    backgroundColor: '#ff4da6',
     width: '100%',
     padding: 5,
     paddingLeft: 20,
