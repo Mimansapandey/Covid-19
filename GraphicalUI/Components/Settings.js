@@ -45,7 +45,7 @@ const Settings = ({ navigation }) => {
 
 
       <View style={styles.container}>
-				<StatusBar backgroundColor='#ffb6c1' barStyle="light-content" />
+				<StatusBar backgroundColor='#fbf4f4' barStyle="light-content" />
 
         <View style={styles.menuContainer}>
           <View style={styles.menuLine}></View>
@@ -82,7 +82,7 @@ export default Settings;
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#ffb6c1',
+    backgroundColor: '#fbf4f4',
   },
 
   //Profile Avatar
@@ -133,7 +133,7 @@ const styles = StyleSheet.create({
     width: 300,
     height: 3,
     borderTopWidth: 1,
-    borderTopColor: '#58ACA8',
+    borderTopColor: '#ff4da6',
     alignSelf: 'center',
     marginBottom: 25
 
