@@ -13,7 +13,7 @@ expo
 $ cd Covid-19-master
 $ expo start 
 ```
-# Technologies
+# Technology stack
 * Expo CLI 3.18.2
 * React Native 0.62
 
