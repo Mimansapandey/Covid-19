@@ -2,7 +2,6 @@
 import pandas as pd
 import numpy as np
 import matplotlib as plt
-import seaborn as sns
 dataset = pd.read_csv('Helpline_numbers.csv')
 dataset
 df=dataset.drop(dataset.index[28])
