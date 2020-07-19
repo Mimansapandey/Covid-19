@@ -3,10 +3,6 @@ import { Text, TouchableOpacity, View, StyleSheet, Image, Alert, Modal, TextInpu
 import { Avatar } from 'react-native-paper';
 import { TouchableRipple, Switch } from 'react-native-paper';
 
-//import 'react-responsive-modal/styles.css';
-//import { Modal } from 'react-responsive-modal';
-
-
 import { widthPercentageToDP as wp, heightPercentageToDP as hp } from 'react-native-responsive-screen';
 
 import { useFonts } from '@use-expo/font';
