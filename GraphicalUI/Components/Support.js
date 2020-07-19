@@ -44,7 +44,7 @@ export default function Support() {
                 <View style={styles.box}>
                     <TouchableOpacity style={styles.inner} activeOpacity={0.8}>
                         <Image source={healing} style={styles.illustration}></Image>
-                        <Text style={styles.boxText}>Recovored Cases</Text>
+                        <Text style={styles.boxText}>Recovered Cases</Text>
                     </TouchableOpacity>
                 </View>
                 <View style={styles.box}>
