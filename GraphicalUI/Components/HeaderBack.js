@@ -17,7 +17,7 @@ export default function HeaderBack({ title, navigation }) {
   });
 
   if (!fontsLoaded) {
-    return <AppLoading />;
+    return <AppLoading />; 
   } else {
 
     return (
