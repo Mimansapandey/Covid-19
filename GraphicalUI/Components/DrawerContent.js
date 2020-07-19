@@ -18,8 +18,6 @@ import JohnDoe from '../assets/Logo(pink).png'
 
 import { Ionicons } from '@expo/vector-icons';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons'
-import { faUserFriends } from '@fortawesome/free-solid-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome'
 
 import { useFonts } from '@use-expo/font';
 import { AppLoading } from 'expo';
@@ -55,20 +53,11 @@ export function DrawerContent(props) {
                             <View style={styles.row}>
                                 <View style={styles.section}>
                                     <Paragraph style={[styles.paragraph]}>Menu</Paragraph>
-                                    {/* <Caption style={styles.caption}>Contacts</Caption> */}
                                 </View>
                             </View>
                         </View>
 
                         <Drawer.Section style={styles.drawerSection}>
-                            {/* <DrawerItem inactiveTintColor='#fff'
-                                icon={({ color, size }) => (
-                                    <FontAwesomeIcon icon={faUserFriends} color={color} size={size} />
-                                )}
-                                label="Office" labelStyle={{ fontFamily: 'Medium', fontSize: 16 }}
-
-                                onPress={() => { props.navigation.navigate('Contacts') }}
-                            /> */}
                             <DrawerItem inactiveTintColor='#fff'
                                 icon={({ color, size }) => (
                                     <Icon name="inbox-arrow-down"

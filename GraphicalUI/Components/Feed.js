@@ -1,4 +1,3 @@
-/*React Native TimeLine ListView / Flatlist*/
 import React, { Component } from 'react';
 import { StyleSheet, Text, View, ScrollView, TouchableOpacity, TextInput, Image, Modal, StatusBar, FlatList, SafeAreaView } from 'react-native';
 import Timeline from 'react-native-timeline-flatlist';
@@ -8,11 +7,10 @@ import { widthPercentageToDP as wp, heightPercentageToDP as hp } from 'react-nat
 import { YellowBox } from 'react-native';
 
 YellowBox.ignoreWarnings([
-  'VirtualizedLists should never be nested', // TODO: Remove when fixed
+  'VirtualizedLists should never be nested', 
 ])
 
 export default class BasicTimeLine extends Component {
-  //pop-up
   state = {
     modalVisible: false
   };
@@ -88,17 +86,12 @@ export default class BasicTimeLine extends Component {
           </View>
 
         </View>
-        {/*CODE FOR JANE ENDS*/}
 
-        {/*CODE FOR FEED STARTS*/}
         <View style={styles.container}>
           <Timeline style={{ flex: 1 }} data={this.data} descriptionStyle={{ color: 'black', fontSize: 16, fontFamily: 'Regular' }} />
         </View>
-        {/*CODE FOR FEED ENDS*/}
-
         
 
-        {/*CODE FOR POP UP STARTS*/}
         <Modal transparent={true} visible={modalVisible} animationType='fade'>
           <View style={styles.popupBack}>
             <View style={styles.popup}>

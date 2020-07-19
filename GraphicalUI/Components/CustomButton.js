@@ -1,7 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 
-// importing fonts 
 import { useFonts } from '@use-expo/font';
 import { AppLoading } from 'expo';
 
@@ -9,13 +8,11 @@ import { AppLoading } from 'expo';
 export default function CustomButton({ text, onPress }) {
 
 
-    // fonts load
     let [fontsLoaded] = useFonts({
         'Regular': require('../assets/fonts/Montserrat-Regular.ttf'),
         'Bold': require('../assets/fonts/Montserrat-Bold.ttf'),
     });
 
-    // check if fonts are loaded
     if (!fontsLoaded) {
         return <AppLoading />;
     } else {

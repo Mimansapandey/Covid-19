@@ -4,10 +4,10 @@ import {
     Image
 } from 'react-native';
 
-
+//Trying to import button
 import CustomButton from './CustomButton';
 
-
+//Import logo
 import bigger from '../assets/Logo(pink).png';
 
 const StartScreen = ({ navigation }) => {

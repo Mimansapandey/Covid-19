@@ -26,7 +26,7 @@ export default function OnBoardingTwo({ navigation }) {
     return (
 
       <View style={styles.container}>
-        <StatusBar backgroundColor='#fbf4f4' barStyle="light-content" />
+        <StatusBar backgroundColor='#ffb6c1' barStyle="light-content" />
         <Image source={logo} style={{ width: 500, marginBottom: 10 }} />
         <Text style={styles.headings}> Be Hopeful</Text>
         <Text style={styles.textBox}>Hope is the thing with feathers that perches in the soul - and sings the tunes without the words - and never stops at all.</Text>
@@ -39,10 +39,10 @@ export default function OnBoardingTwo({ navigation }) {
 
         <View style={styles.btn}>
           <TouchableOpacity style={{ alignItems: 'center', justifyContent: 'center' }} onPress={pressHandler2}>
-            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: '#ff4da6' }}>Next</Text>
+            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: '#58ACA8' }}>Next</Text>
           </TouchableOpacity>
           <TouchableOpacity style={{ alignItems: 'center', justifyContent: 'center' }} onPress={() => navigation.goBack()}>
-            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: '#ff4da6' }}>Previous</Text>
+            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: '#58ACA8' }}>Previous</Text>
           </TouchableOpacity>
         </View>
       </View>
@@ -53,7 +53,7 @@ export default function OnBoardingTwo({ navigation }) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#ff4da6',
+    backgroundColor: '#ffb6c1',
     alignItems: 'center',
     justifyContent: 'center',
     textAlign: 'center',
@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
     width: 9,
     height: 9,
     borderRadius: 100 / 2,
-    backgroundColor: '#ff4da6',
+    backgroundColor: '#58ACA8',
     margin: 3,
     marginTop: 45,
   },

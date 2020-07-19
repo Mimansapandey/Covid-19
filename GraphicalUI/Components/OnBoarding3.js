@@ -25,7 +25,7 @@ export default function OnBoardingThree({ navigation }) {
     return (
 
       <View style={styles.container}>
-        <StatusBar backgroundColor='#fbf4f4' barStyle="light-content" />
+        <StatusBar backgroundColor='#ffb6c1' barStyle="light-content" />
         <Image source={logo} style={{ width: 500, marginBottom: 10 }} />
         <Text style={styles.headings}>Be Optimistic</Text>
         <Text style={styles.textBox}>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</Text>
@@ -38,10 +38,10 @@ export default function OnBoardingThree({ navigation }) {
 
         <View style={styles.btn}>
           <TouchableOpacity style={{ alignItems: 'center', justifyContent: 'center' }} onPress={pressHandler3}>
-            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: '#ff4da6' }}>Next</Text>
+            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: '#58ACA8' }}>Next</Text>
           </TouchableOpacity>
           <TouchableOpacity style={{ alignItems: 'center', justifyContent: 'center' }} onPress={() => navigation.goBack()}>
-            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: 'ff4da6' }}>Previous</Text>
+            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: '#58ACA8' }}>Previous</Text>
           </TouchableOpacity>
         </View>
 
@@ -55,7 +55,7 @@ export default function OnBoardingThree({ navigation }) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fbf4f4',
+    backgroundColor: '#ffb6c1',
     alignItems: 'center',
     justifyContent: 'center',
     textAlign: 'center',
@@ -88,7 +88,7 @@ const styles = StyleSheet.create({
     width: 9,
     height: 9,
     borderRadius: 100 / 2,
-    backgroundColor: 'ff4da6',
+    backgroundColor: '#58ACA8',
     margin: 3,
     marginTop: 45,
   },
