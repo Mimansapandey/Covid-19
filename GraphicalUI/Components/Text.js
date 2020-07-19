@@ -109,3 +109,4 @@ const styles = StyleSheet.create({
   captionMedium: theme.fonts.captionMedium,
   button: theme.fonts.button,
 });
+
