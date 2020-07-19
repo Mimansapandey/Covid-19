@@ -39,10 +39,10 @@ export default function OnBoardingOne({ navigation }) {
 
         <View style={styles.btn}>
           <TouchableOpacity style={{ alignItems: 'center', justifyContent: 'center' }} onPress={pressHandler}>
-            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: '#58ACA8' }}>Next</Text>
+            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: '#ff4da6' }}>Next</Text>
           </TouchableOpacity>
           <TouchableOpacity style={{ alignItems: 'center', justifyContent: 'center' }} onPress={() => navigation.navigate('MainScreen')}>
-            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: '#58ACA8' }}>Skip</Text>
+            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: '#ff4da6' }}>Skip</Text>
           </TouchableOpacity>
         </View>
       </View>
@@ -87,7 +87,7 @@ const styles = StyleSheet.create({
     width: 9,
     height: 9,
     borderRadius: 100 / 2,
-    backgroundColor: '#58ACA8',
+    backgroundColor: '#ff4da6',
     margin: 3,
     marginTop: 45,
   },
