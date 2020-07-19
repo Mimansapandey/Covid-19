@@ -2,7 +2,7 @@ import React from 'react';
 import { Image, StyleSheet, Text, View, TouchableOpacity, StatusBar } from 'react-native';
 import logo from '../assets/Logo(pink).png';
 
-// importing fonts 
+
 import { useFonts } from '@use-expo/font';
 import { AppLoading } from 'expo';
 
@@ -12,13 +12,13 @@ export default function OnBoardingTwo({ navigation }) {
     navigation.navigate('Welcome-3')
   }
 
-  // fonts load
+ 
   let [fontsLoaded] = useFonts({
     'Regular': require('../assets/fonts/Montserrat-Regular.ttf'),
     'Bold': require('../assets/fonts/Montserrat-SemiBold.ttf')
   });
 
-  // check if fonts are loaded
+ 
   if (!fontsLoaded) {
     return <AppLoading />;
   } else {
@@ -39,10 +39,10 @@ export default function OnBoardingTwo({ navigation }) {
 
         <View style={styles.btn}>
           <TouchableOpacity style={{ alignItems: 'center', justifyContent: 'center' }} onPress={pressHandler2}>
-            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: '#58ACA8' }}>Next</Text>
+            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: '#ff4da6' }}>Next</Text>
           </TouchableOpacity>
           <TouchableOpacity style={{ alignItems: 'center', justifyContent: 'center' }} onPress={() => navigation.goBack()}>
-            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: '#58ACA8' }}>Previous</Text>
+            <Text style={{ fontSize: 18, fontFamily: 'Bold', color: '#ff4da6' }}>Previous</Text>
           </TouchableOpacity>
         </View>
       </View>
@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
     width: 9,
     height: 9,
     borderRadius: 100 / 2,
-    backgroundColor: '#58ACA8',
+    backgroundColor: '#ff4da6',
     margin: 3,
     marginTop: 45,
   },
