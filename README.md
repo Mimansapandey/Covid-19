@@ -10,8 +10,8 @@ expo
 
 ## To run this project, use Expo.
 ```
-$ cd Covid-19-master
-$ expo start 
+cd Covid-19-master
+expo start 
 ```
 # Technology stack
 * Expo CLI 3.18.2
