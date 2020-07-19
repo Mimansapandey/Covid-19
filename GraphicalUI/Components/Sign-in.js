@@ -3,7 +3,7 @@ import {
 	View,
 	Text,
 	TouchableOpacity,
-	TextInput,
+	TextInput, 
 	Platform,
 	StyleSheet,
 	Dimensions,
