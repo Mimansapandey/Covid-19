@@ -1,7 +1,6 @@
 #use git clone in terminal before executing these commands
 import numpy as np
 import pandas as pd
-import seaborn as sns 
 import matplotlib as plt
 from numpy import nan
 
