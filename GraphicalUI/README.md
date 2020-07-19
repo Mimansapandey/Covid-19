@@ -6,7 +6,7 @@ A cross platform React project to get latest updated on the current situation of
 Expo
 npm install -g expo-cli
 ```
-## To run this project, install it locally using Expo
+## Installing locally using expo
 ```
 cd Covid-19-master
 expo start 
