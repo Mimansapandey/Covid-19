@@ -8,9 +8,9 @@ export default function Call() {
     return (
       <ScrollView>
         <DataTable>
-          <DataTable.Header>
-            <DataTable.Title >Name of States</DataTable.Title>
-            <DataTable.Title numeric>Helpline Numbers</DataTable.Title>
+          <DataTable.Header style={{backgroundColor:'#ff4da6'}}>
+            <DataTable.Title >STATES</DataTable.Title>
+            <DataTable.Title numeric>HELPLINE NUMBER</DataTable.Title>
           </DataTable.Header>
       
 
