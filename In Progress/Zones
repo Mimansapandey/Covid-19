@@ -14,7 +14,7 @@ export default function Call() {
     return (
       <ScrollView>
         <DataTable>
-        <DataTable.Header style={{backgroundColor:'#fbf4f4'}}>
+        <DataTable.Header style={{backgroundColor:'#ff4da6'}}>
           <DataTable.Title >DISTRICT</DataTable.Title>
           <DataTable.Title >STATE</DataTable.Title>
           <DataTable.Title >ZONAL CLASSIFICATION</DataTable.Title>
