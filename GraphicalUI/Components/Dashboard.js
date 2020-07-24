@@ -20,12 +20,12 @@ export default function Dashboard() {
     
 
     <DataTable>
-    <DataTable.Header>
-      <DataTable.Title >States</DataTable.Title>
-      <DataTable.Title numeric>Active</DataTable.Title>
-      <DataTable.Title numeric>Confirmed</DataTable.Title>
-      <DataTable.Title numeric>Recovered</DataTable.Title>
-      <DataTable.Title numeric>Deaths</DataTable.Title>
+    <DataTable.Header style={{backgroundColor:'#ff4da6'}}>
+      <DataTable.Title >STATES</DataTable.Title>
+      <DataTable.Title numeric>ACTIVE</DataTable.Title>
+      <DataTable.Title numeric>CONFIRMED</DataTable.Title>
+      <DataTable.Title numeric>RECOVERED</DataTable.Title>
+      <DataTable.Title numeric>DEATHS</DataTable.Title>
     </DataTable.Header>
     <FlatList
           data={data}
