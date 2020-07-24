@@ -1,0 +1,2667 @@
+<DataTable.Row>
+<DataTable.Cell>palakkad</DataTable.cell>
+<DataTable.cell>kerla</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>pathanamthitta</DataTable.cell>
+<DataTable.cell>kerla</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Malappuram</DataTable.cell>
+<DataTable.cell>kerla</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Thiruvananthapuram</DataTable.cell>
+<DataTable.cell>kerla</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Alappuzha</DataTable.cell>
+<DataTable.cell>kerla</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Thrissur</DataTable.cell>
+<DataTable.cell>kerla</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Ernakulam</DataTable.cell>
+<DataTable.cell>kerla</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>wayanad</DataTable.cell>
+<DataTable.cell>kerla</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>LehLadakh</DataTable.cell>
+<DataTable.cell>Ladakh</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kargil</DataTable.cell>
+<DataTable.cell>Ladakh</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Lakshadweep District</DataTable.cell>
+<DataTable.cell>Lakshadweep</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Indore</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Bhopal</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>ujjain</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>jabalpur</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Dhar</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Barwani</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>East Nimar</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Dewas</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Gwalior</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Khargone</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Raisen</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Hoshangbad</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Ratlam</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Agar Malwa</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Mandsaur</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Sagar</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Shajapur</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Chhindwara</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Alirajpur</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Tikamgarh.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Shahdol</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Sheopur</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Dindori</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Burhanpur</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Harda</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Betul</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Vidisha</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Morena</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Rewa</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Ashoknagar</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Rajgarh</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Shivpuri</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Anuppur</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Balaghat</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Bhind</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Chhatarpur</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Damoh</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Datia</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Guna</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Jhabua</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Katni</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Mandla</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Narsinghpur</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Neemuch</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Panna</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Satna</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Sehore</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Seoni</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Sidhi</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Umaria</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Singrauli</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>NIwari</DataTable.cell>
+<DataTable.cell>Madhyapradesh</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Mumbai</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Pune</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Thane</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Nashik</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Palghar</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Nagpur</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Solapur</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Yavatmal</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Aurangabad</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Satara</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Dhule</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Akola</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Jalgaon</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Mumbai Suburban</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Raigad</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Ahmednagar</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Amravati</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Buldhana</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Nandurbar</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kolhapur</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Hingoli</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Ratnagiri</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Jalna</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Nanded</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Chandrapur</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Parbhani</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Sangli</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Latur</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Bhandara</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Beed</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Osmanabad</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Washim</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Sindhudurg</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Gondia</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Gadchiroli</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.CellWardha</DataTable.cell>
+<DataTable.cell>Maharashtra</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>imphal west</DataTable.cell>
+<DataTable.cell>Manipur</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Thoubal</DataTable.cell>
+<DataTable.cell>Manipur</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Bishnupur</DataTable.cell>
+<DataTable.cell>Manipur</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Chandel</DataTable.cell>
+<DataTable.cell>Manipur</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Churachandpur</DataTable.cell>
+<DataTable.cell>Manipur</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Imphal East</DataTable.cell>
+<DataTable.cell>Manipur</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Senapati</DataTable.cell>
+<DataTable.cell>Manipur</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Tamenglong</DataTable.cell>
+<DataTable.cell>Manipur</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Ukhrul</DataTable.cell>
+<DataTable.cell>Manipur</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kakching</DataTable.cell>
+<DataTable.cell>Manipur</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Jiribam</DataTable.cell>
+<DataTable.cell>Manipur</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Noney</DataTable.cell>
+<DataTable.cell>Manipur</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Pherzawl</DataTable.cell>
+<DataTable.cell>Manipur</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Tengnoupal</DataTable.cell>
+<DataTable.cell>Manipur</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kamjong</DataTable.cell>
+<DataTable.cell>Manipur</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>East Khasi Hills</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>East Garo Hills</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>West Jaintia Hills</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Ri-Bhoi</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>South Garo Hills</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>West Garo Hills</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>West Khasi Hills</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>North Garo Hills</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>East jaintia Hills</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>South west Khasi Hills</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>South West Garo Hills</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Aizawl</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Champhai</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kolasib</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Lawngtlai</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Lunglei</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Mamit</DataTable.cell>
+<DataTable.cell>Megalaya</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Saiha</DataTable.cell>
+<DataTable.cell>Mizoram</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Serchhip</DataTable.cell>
+<DataTable.cell>Mizoram</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>hnahthial</DataTable.cell>
+<DataTable.cell>Mizoram</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Saitual</DataTable.cell>
+<DataTable.cell>Mizoram</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Khawzawl</DataTable.cell>
+<DataTable.cell>Mizoram</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Dimapur</DataTable.cell>
+<DataTable.cell>Nagaland</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kohima</DataTable.cell>
+<DataTable.cell>Nagaland</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Mokokchung</DataTable.cell>
+<DataTable.cell>Nagaland</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Mon</DataTable.cell>
+<DataTable.cell>Nagaland</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Phek</DataTable.cell>
+<DataTable.cell>Nagaland</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Tuensang</DataTable.cell>
+<DataTable.cell>Nagaland</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Wokha</DataTable.cell>
+<DataTable.cell>Nagaland</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Zunheboto</DataTable.cell>
+<DataTable.cell>Nagaland</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Peren</DataTable.cell>
+<DataTable.cell>Nagaland</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kiphire</DataTable.cell>
+<DataTable.cell>Nagaland</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Longleng</DataTable.cell>
+<DataTable.cell>Nagaland</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Jaipur</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Bhadrak</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Baleshwar</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Bhadrak</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Baleshwar</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Khordha</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Sundargarh</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kendrapara</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Koraput</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Dhenkanal</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kalahandi</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Cuttack</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Puri</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Balangiri</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Bargarh</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Boudh</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Deogarh</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Gajapati</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Ganjam</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Jagatsinghapur</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Jharsuguda</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Khandhamal</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kendujhar</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Malkangiri</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Mayurbhanj</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Nabarangpur</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Nayagarh</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Nuapada</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Rayagada</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Sambalpur</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Sonepur</DataTable.cell>
+<DataTable.cell>Odisha</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Pondicherry</DataTable.cell>
+<DataTable.cell>Puducherry</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Karaikal</DataTable.cell>
+<DataTable.cell>Puducherry</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Mahe</DataTable.cell>
+<DataTable.cell>Puducherry</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Yanam</DataTable.cell>
+<DataTable.cell>Puducherry</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Mahe</DataTable.cell>
+<DataTable.cell>Puducherry</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Yanam</DataTable.cell>
+<DataTable.cell>Puducherry</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Jalandhar</DataTable.cell>
+<DataTable.cell>Puducherry</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Yanam</DataTable.cell>
+<DataTable.cell>Puducherry</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Jalandhar</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Patiala</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Ludhiana</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>S.A.S Nagar</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Pathankot</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Mansa</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Tarn Taran</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Ambritsar</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kapurthala</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Hosiarpur</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Faridkot</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Sangrur</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Shaid Bhagat Singh Nagar</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Firozepur</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Sri Muktsar Sahib</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Moga</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Gurudaspur</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Barnala</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Rupanagar(Ropar)</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Fathegarh Sahib</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Bathinda</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Fazilka</DataTable.cell>
+<DataTable.cell>Punjab</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Jaipur</DataTable.cell>
+<DataTable.cell>Rajasthan</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Jodhpur</DataTable.cell>
+<DataTable.cell>Rajasthan</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kota</DataTable.cell>
+<DataTable.cell>Rajasthan</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Ajmer</DataTable.cell>
+<DataTable.cell>Rajasthan</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Bharatpur</DataTable.cell>
+<DataTable.cell>Rajasthan</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Nagpur</DataTable.cell>
+<DataTable.cell>Rajasthan</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Banswara</DataTable.cell>
+<DataTable.cell>Rajasthan</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Jhalwara</DataTable.cell>
+<DataTable.cell>Rajasthan</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Tonk</DataTable.cell>
+<DataTable.cell>Rajasthan</DataTable.cell>
+<DataTable.cell>orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>jaisalmer</DataTable.cell>
+<DataTable.cell>Rajasthan</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Dausa</DataTable.cell>
+<DataTable.cell>Rajasthan</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Jhunjhunu</DataTable.cell>
+<DataTable.cell>Rajasthan</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Hanumangarh</DataTable.cell>
+<DataTable.cell>Rajasthan</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Bhilwara</DataTable.cell>
+<DataTable.cell>Rajasthan</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>SawaiMadhopur</DataTable.cell>
+<DataTable.cell>Rajasthan</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Lohardaga</DataTable.cell>
+<DataTable.cell>Jharkhand</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Pakur</DataTable.cell>
+<DataTable.cell>Jharkhand</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Palamu</DataTable.cell>
+<DataTable.cell>Jharkhand</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Sahebganj</DataTable.cell>
+<DataTable.cell>Jharkhand</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Saraikelkharsawan</DataTable.cell>
+<DataTable.cell>Jharkhand</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>West Singhbhum</DataTable.cell>
+<DataTable.cell>Jharkhand</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Khunti</DataTable.cell>
+<DataTable.cell>Jharkhand</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Ramgarh</DataTable.cell>
+<DataTable.cell>Jharkhand</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Bengaluru Urban</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Mysuru</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Bengaluru Rural</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Belgavi</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Vijayapura</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kalaburgi</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Bagalkote</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Mandya</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Ballari</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Dharwad</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Dakshina Kannada</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Bidar</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Chikkaballapura</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Gadag</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Uttara kannada</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Tumakuru</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Davangere</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>udupi</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Chikkamangaluru</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Chitradurga</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Hassan</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Haveri</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kodagu</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kolar</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Koppal</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Raichur</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Shivamogga</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Ramnagara</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Yadgir</DataTable.cell>
+<DataTable.cell>Karnataka</DataTable.cell>
+<DataTable.cell>Green zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kannur</DataTable.cell>
+<DataTable.cell>Kerala</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kottayam</DataTable.cell>
+<DataTable.cell>Kerala</DataTable.cell>
+<DataTable.cell>Red zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kasargod</DataTable.cell>
+<DataTable.cell>Kerala</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Idukki</DataTable.cell>
+<DataTable.cell>Kerala</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>KOzhikode</DataTable.cell>
+<DataTable.cell>Kerala</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+<DataTable.Row>
+<DataTable.Cell>Kollam</DataTable.cell>
+<DataTable.cell>Kerala</DataTable.cell>
+<DataTable.cell>Orange zone</DataTable.cell>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
