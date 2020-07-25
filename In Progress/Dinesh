@@ -29,13 +29,6 @@
         <DataTable.Row>
 
          <DataTable.Cell>Lohit</DataTable.Cell>
-         <DataTable.Cell>Andhra Pradesh</DataTable.Cell>
-         <DataTable.Cell>Orange Zone</DataTable.Cell>
-        </DataTable.Row>
-        
-        <DataTable.Row>
-
-         <DataTable.Cell>Lohit</DataTable.Cell>
          <DataTable.Cell>Arunachal Pradesh</DataTable.Cell>
          <DataTable.Cell>Green Zone</DataTable.Cell>
         </DataTable.Row>
@@ -78,13 +71,6 @@
 <DataTable.Row>
 
          <DataTable.Cell>Lower Dibang Valley</DataTable.Cell>
-         <DataTable.Cell>Arunachal Pradesh</DataTable.Cell>
-         <DataTable.Cell>Green Zone</DataTable.Cell>
-        </DataTable.Row>
-		
-<DataTable.Row>
-
-         <DataTable.Cell>Lohit</DataTable.Cell>
          <DataTable.Cell>Arunachal Pradesh</DataTable.Cell>
          <DataTable.Cell>Green Zone</DataTable.Cell>
         </DataTable.Row>
