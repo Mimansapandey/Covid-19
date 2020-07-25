@@ -3,7 +3,7 @@ import {
     View, StyleSheet, 
 } from 'react-native';
 import {
-    Title,
+    Title, 
     Caption,
     Paragraph,
     Drawer,
