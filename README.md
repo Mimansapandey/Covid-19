@@ -1,5 +1,6 @@
-# General info
-A React Native covid tracking project with live updates on the current spread of the pandemic.
+# COVID-19-TRACKER
+# INTRODUCTION
+The aim of this project is to build a cross platform Covid-19 app to get live state-wise updates on the current situation of the pandemic.
 
 # Prerequisities
 ```
