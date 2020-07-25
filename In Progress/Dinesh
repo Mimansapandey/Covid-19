@@ -873,7 +873,103 @@ DataTable.Row>
          <DataTable.Cell>Red Zone</DataTable.Cell>
         </DataTable.Row>
         
-        
+DataTable.Row>
+
+         <DataTable.Cell>Raipur</DataTable.Cell>
+         <DataTable.Cell>Chhattisgarh</DataTable.Cell>
+         <DataTable.Cell>Red Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Korba</DataTable.Cell>
+         <DataTable.Cell>Chhattisgarh</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Surajpur</DataTable.Cell>
+         <DataTable.Cell>Chhattisgarh</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Bilaspur</DataTable.Cell>
+         <DataTable.Cell>Chhattisgarh</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Durg</DataTable.Cell>
+         <DataTable.Cell>Chhattisgarh</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Rajnandgaon</DataTable.Cell>
+         <DataTable.Cell>Chhattisgarh</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Bastar</DataTable.Cell>
+         <DataTable.Cell>Chhattisgarh</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Dantewada</DataTable.Cell>
+         <DataTable.Cell>Chhattisgarh</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Dhamtari</DataTable.Cell>
+         <DataTable.Cell>Chhattisgarh</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Janjgir-Champa</DataTable.Cell>
+         <DataTable.Cell>Chhattisgarh</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Jashpur</DataTable.Cell>
+         <DataTable.Cell>Chhattisgarh</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Kanker</DataTable.Cell>
+         <DataTable.Cell>Chhattisgarh</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Kabirdham</DataTable.Cell>
+         <DataTable.Cell>Chhattisgarh</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Korea</DataTable.Cell>
+         <DataTable.Cell>Chhattisgarh</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
         
 		
 
