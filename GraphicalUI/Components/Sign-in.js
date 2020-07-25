@@ -198,7 +198,7 @@ const height_logo = height * 0.10;
 const styles = StyleSheet.create({
 	container: {
 		flex: 1,
-		backgroundColor: '#fbf4f4'
+		backgroundColor: '#ff4da6'
 	},
 	header: {
 		alignItems: 'flex-end',
