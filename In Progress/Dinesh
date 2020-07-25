@@ -662,6 +662,216 @@
          <DataTable.Cell>Bihar</DataTable.Cell>
          <DataTable.Cell>Orange Zone</DataTable.Cell>
         </DataTable.Row>
+	
+DataTable.Row>
+
+         <DataTable.Cell>Bhojpur</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Begusarai</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Aurangabad</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Madhubani</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Prubichamparan</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Bhagulpur</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Arwal</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Saran</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Nawada</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Lakhisarai</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Banka</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Vaishali</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Darbhanga</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+
+DataTable.Row>
+
+         <DataTable.Cell>Jehanabad</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Madhepura</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+        
+DataTable.Row>
+
+         <DataTable.Cell>Purnai</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Orange Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Sheikhpura</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Araria</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+        
+DataTable.Row>
+
+         <DataTable.Cell>Jamui</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Katihar</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Khagaria</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Kishanganj</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Muzaffarpur</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>PashchimChamparan</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Saharsa</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Samashtipur</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Sheohar</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Sitamarhi</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Supaul</DataTable.Cell>
+         <DataTable.Cell>Bihar</DataTable.Cell>
+         <DataTable.Cell>Green Zone</DataTable.Cell>
+        </DataTable.Row>
+		
+DataTable.Row>
+
+         <DataTable.Cell>Chandigarh</DataTable.Cell>
+         <DataTable.Cell>Chandigarh</DataTable.Cell>
+         <DataTable.Cell>Red Zone</DataTable.Cell>
+        </DataTable.Row>
         
         
         
