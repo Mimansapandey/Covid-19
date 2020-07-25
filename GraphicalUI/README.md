@@ -1,5 +1,5 @@
 # General info
-A cross platform React project to get latest updated on the current situation of the pandemic.
+A cross platform React project to get latest updates on the current situation of the pandemic.
 
 # Prerequisities
 ```
