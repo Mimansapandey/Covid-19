@@ -120,7 +120,7 @@ const styles = StyleSheet.create({
     height: 40,
     borderWidth: 1,
     paddingLeft: 10,
-    borderColor: '#009688',
+    borderColor: '#ff4da6',
     backgroundColor: '#FFFFFF',
   },
 });
