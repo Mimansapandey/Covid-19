@@ -27,7 +27,7 @@ export default class BasicTimeLine extends Component {
         description:
           'https://www.covid19india.org/',
         circleColor: '#ff4da6',
-        lineColor: '#ff4da6',
+        lineColor: '#ffffff',
         fontSize: 5,
       },
       {
@@ -36,7 +36,7 @@ export default class BasicTimeLine extends Component {
         description:
           'https://www.worldometers.info/coronavirus/',
         circleColor: '#ff4da6',
-        lineColor: '#ff4da6'
+        lineColor: '#ffffff'
       },
       {
         
@@ -44,7 +44,7 @@ export default class BasicTimeLine extends Component {
         description:
           'https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html',
         circleColor: '#ff4da6',
-        lineColor: '#ff4da6'
+        lineColor: '#ffffff'
       },
       {
         
@@ -52,7 +52,7 @@ export default class BasicTimeLine extends Component {
         description:
           'https://www.mohfw.gov.in/',
         circleColor: '#ff4da6',
-        lineColor: '#ff4da6'
+        lineColor: '#ffffff'
       },
       {
         
@@ -60,7 +60,7 @@ export default class BasicTimeLine extends Component {
         description:
           'https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses#:~:text=symptoms',
         circleColor: '#ff4da6',
-        lineColor: '#ff4da6'
+        lineColor: '#ffffff'
       },
       {
         
@@ -68,7 +68,7 @@ export default class BasicTimeLine extends Component {
         description:
           'https://www.mygov.in/covid-19/',
         circleColor: '#ff4da6',
-        lineColor: '#ff4da6',
+        lineColor: '#ffffff',
       },
     ];
   }
