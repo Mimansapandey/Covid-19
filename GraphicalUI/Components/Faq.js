@@ -7,7 +7,6 @@ import { AppLoading } from 'expo';
 import add from '../assets/add.png';
 import line from '../assets/line3.png';
 
-import * as Animatable from 'react-native-animatable';
 
 export default function Faq() {
 
@@ -91,21 +90,28 @@ function toggle8() {
             <Image source={add} />
           </TouchableHighlight>
         </View>
+
+        <View style={styles.lineCont}>
+          <Image source={line} />
+        </View>
+
+
         <View style={styles.container}>
           <Text style={styles.bodyTxtBold}>2. How to take precaution/ protect yourself?</Text>
           <View><Text style={styles.bodyTxt}>{state2 ? "" : "When coughing and sneezing, cover mouth and nose with a tissue, wash hands with soap and water frequently, avoid social contact and if you have any COVID-19 symptoms, contact your nearest healthcare facilty."}</Text></View>
         </View>
-        
+
         <View style={styles.addBtn}>
-        
           <TouchableHighlight underlayColor='#fff' onPress={toggle2}>
-          <Animatable.View
-            animation="rotate"
-            >
             <Image source={add} />
-            </Animatable.View>
           </TouchableHighlight>
         </View>
+
+        <View style={styles.lineCont}>
+          <Image source={line} />
+        </View>
+
+
         <View style={styles.container}>
           <Text style={styles.bodyTxtBold}>3. How does the virus spread? </Text>
           <View><Text style={styles.bodyTxt}>{state3 ? "" : "The virus that causes COVID-19 is thought to spread mainly from person to person through respiratory droplets produced when an infected person coughs, sneezes or talks.Spread is more likely when people are in close contact with one another(within about 6 feet)"}</Text></View>
@@ -113,14 +119,15 @@ function toggle8() {
 
         <View style={styles.addBtn}>
           <TouchableHighlight underlayColor='#fff' onPress={toggle3}>
-          <Animatable.View
-            animation="rotate"
-            > 
-          <Image source={add} />
-          </Animatable.View>
+            <Image source={add} />
           </TouchableHighlight>
-      
         </View>
+
+        <View style={styles.lineCont}>
+          <Image source={line} />
+        </View>
+
+
         <View style={styles.container}>
           <Text style={styles.bodyTxtBold}>4. What is community spread?</Text>
           <View><Text style={styles.bodyTxt}>{state4 ? "" : "Community spread means people have infected with the virus in an area, including some who are not sure how or where they became infected. Each health department determines community spread differently based on local conditions. For more information on community spread in your area, please visit your health departments website."}</Text></View>
@@ -128,13 +135,14 @@ function toggle8() {
 
         <View style={styles.addBtn}>
           <TouchableHighlight underlayColor='#fff' onPress={toggle4}>
-          <Animatable.View
-          animation="rotate"
-          > 
             <Image source={add} />
-            </Animatable.View>
           </TouchableHighlight>
         </View>
+
+        <View style={styles.lineCont}>
+          <Image source={line} />
+        </View>
+
         <View style={styles.container}>
           <Text style={styles.bodyTxtBold}>5. Is it possible to have the flu and COVID-19 at the same time?</Text>
           <View><Text style={styles.bodyTxt}>{state4 ? "" : "Yes. It is possible to test positive for the flu (As well as other respiratory infections) and COVID-19 at the same time"}</Text></View>
@@ -142,13 +150,14 @@ function toggle8() {
 
         <View style={styles.addBtn}>
           <TouchableHighlight underlayColor='#fff' onPress={toggle4}>
-          <Animatable.View
-          animation="rotate"
-          > 
             <Image source={add} />
-            </Animatable.View>
           </TouchableHighlight>
         </View>
+
+        <View style={styles.lineCont}>
+          <Image source={line} />
+        </View>
+
         <View style={styles.container}>
           <Text style={styles.bodyTxtBold}>6. Who is at higher risk for serious illness from COVID-19?</Text>
           <View><Text style={styles.bodyTxt}>{state4 ? "" : "Based on currently available information and clinical expertise, older adults and people with underlying medical conditions are at higher risk for severe illness from COVID-19."}</Text></View>
@@ -156,13 +165,14 @@ function toggle8() {
 
         <View style={styles.addBtn}>
           <TouchableHighlight underlayColor='#fff' onPress={toggle4}>
-          <Animatable.View
-          animation="rotate"
-          >  
-          <Image source={add} />
-          </Animatable.View>
+            <Image source={add} />
           </TouchableHighlight>
         </View>
+
+        <View style={styles.lineCont}>
+          <Image source={line} />
+        </View>
+
 
         <View style={styles.container}>
           <Text style={styles.bodyTxtBold}>7. What should i do if i have had close contact with someone who has COVID-19? </Text>
@@ -171,13 +181,15 @@ function toggle8() {
 
         <View style={styles.addBtnLast}>
           <TouchableHighlight underlayColor='#fff' onPress={toggle5}>
-          <Animatable.View
-          animation="rotate"
-          >    
-          <Image source={add} />
-          </Animatable.View>
+            <Image source={add} />
           </TouchableHighlight>
         </View>
+
+        <View style={styles.lineCont}>
+          <Image source={line} />
+        </View>
+
+
         <View style={styles.container}>
           <Text style={styles.bodyTxtBold}>8. Is cleaning alone effective against the virus that causes COVID-19? </Text>
           <View><Text style={styles.bodyTxt}>{state5 ? "" : "Cleaning does not kill germs, but by removing them, it lowers their numbers and risk of spreading infection. if a surface may have gotten the virus on it from a person with or suspected to have COVID-19, the surface should be cleaned and disinfected. Disinfecting kills germs on surfaces."}</Text></View>
@@ -185,11 +197,7 @@ function toggle8() {
 
         <View style={styles.addBtnLast}>
           <TouchableHighlight underlayColor='#fff' onPress={toggle5}>
-          <Animatable.View
-          animation="rotate"
-          >      
-          <Image source={add} />
-          </Animatable.View>
+            <Image source={add} />
           </TouchableHighlight>
         </View>
       </ScrollView>
