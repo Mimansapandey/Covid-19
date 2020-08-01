@@ -21,14 +21,12 @@ import Feed from './Feed';
 import About from './About';
 import SignInScreen from './Sign-in';
 
-import Contacts from './Contacts';
 import Call from './Call';
 import Support from './Support';
 import Dashboard from './Dashboard';
 import Faq from './Faq';
 import Settings from './Settings';
 
-const ContactStack = createStackNavigator();
 const CallStack = createStackNavigator();
 const SupportStack = createStackNavigator();
 const DashboardStack = createStackNavigator();
@@ -73,15 +71,7 @@ const BottomTabScreen = () => (
         }}
         height={60}
     >
-    {/* <Tab.Navigator
-        initialRouteName="Contacts"
-        tabBarOptions={{
-            activeTintColor: '#a4d4ae',
-            inactiveTintColor: '#32AFA9',
-            showLabel: false
-        }}
-        height={60}
-    > */}
+
         <Tab.Screen
             name="Dashboard"
             component={DashboardScreen}
@@ -92,9 +82,10 @@ const BottomTabScreen = () => (
                 ),
             }}
         />
-        <Tab.Screen
-            name="Contacts"
-            component={ContactsScreen}
+        
+         <Tab.Screen
+            name="Feed"
+            component={FeedScreen}
             options={{
                 tabBarColor: '#fff',
                 tabBarIcon: ({ color }) => (
@@ -145,35 +136,6 @@ const BottomTabScreen = () => (
     </Tab.Navigator>
 )
 
-const ContactsScreen = () => (
-    <ContactStack.Navigator
-        screenOptions={{
-            gestureEnabled: true, gestureDirection: 'horizontal',
-            transitionSpec: { open: config, close: config },
-            cardStyleInterpolator:
-                CardStyleInterpolators.forHorizontalIOS,
-        }}
-    >
-        {/* <ContactStack.Screen name="Contacts" component={Contacts} options={({ navigation }) => {
-            return {
-                headerTitle: () => <Header title='Home' navigation={navigation} />,
-                headerTitleAlign: 'center',
-            }
-        }}
-        /> */}
-        <ContactStack.Screen name="Feed" component={Feed}
-            options={({ navigation }) => {
-                return {
-                    headerTitle: () => <HeaderBack title='Feed' navigation={navigation} />,
-                    headerTitleAlign: 'center',
-                    headerBackTitleVisible: false,
-                }
-            }}
-        />
-    </ContactStack.Navigator>
-
-)
-
 const SupportScreen = () => (
     <SupportStack.Navigator screenOptions={({ navigation }) => {
         return {
@@ -212,6 +174,19 @@ const FaqScreen = () => (
     </FaqStack.Navigator>
 );
 
+const FeedScreen = () => (
+    <FeedStack.Navigator screenOptions={({ navigation }) => {
+        return {
+            headerTitle: () => <Header title='Feed' navigation={navigation} />, headerTitleAlign: 'center',
+        }
+    }}>
+        <FeedStack.Screen name="Feed" component={Feed} options={{
+            title: 'Feed',
+
+        }} />
+    </FeedStack.Navigator>
+);
+
 const CallScreen = () => (
     <CallStack.Navigator screenOptions={({ navigation }) => {
         return {
@@ -246,19 +221,6 @@ const SettingScreen = () => (
             }
         }} />
     </SettingStack.Navigator>
-);
-
-const FeedScreen = () => (
-    <FeedStack.Navigator screenOptions={({ navigation }) => {
-        return {
-            headerTitle: () => <Header title='Feed' navigation={navigation} />, headerTitleAlign: 'center',
-        }
-    }}>
-        <FeedStack.Screen name="Feed" component={Feed} options={{
-            title: 'Feed',
-
-        }} />
-    </FeedStack.Navigator>
 );
 
 const AboutScreen = () => (
